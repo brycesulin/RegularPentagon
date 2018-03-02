@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/geomain.cpp
+cstdlib
+-
+iostream
+-
+vector
+-
+string
+-
+regularpentagon.h
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/regularpentagon.h
+geometricobject.h
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/geometricobject.h
+
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/geometricobject.cpp
+geometricobject.h
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/geometricobject.h
+
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/geometricobject.h
+string
+-
+
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/regularpentagon.cpp
+iostream
+-
+cmath
+-
+regularpentagon.h
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/regularpentagon.h
+
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/regularpentagon.h
+string
+-
+geometricobject.h
+/Users/brycesulin/Desktop/Github Projects/Prog Lang Class Projects/C++ Programming Assignments/RegularPentagon/geometricobject.h
+
